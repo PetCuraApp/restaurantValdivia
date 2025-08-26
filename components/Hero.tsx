@@ -45,7 +45,7 @@ export default function Hero({ onOpenMenu }: HeroProps) {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-xl sm:text-2xl lg:text-3xl text-primary-100 mb-8 font-light"
           >
-            Experiencia culinaria mediterránea en su máxima expresión
+            Experiencia culinaria en su máxima expresión
           </motion.p>
 
           {/* Key Info */}
@@ -61,7 +61,7 @@ export default function Hero({ onOpenMenu }: HeroProps) {
             </div>
             <div className="flex items-center space-x-2">
               <MapPin className="w-5 h-5 text-primary-300" />
-              <span>Barcelona, España</span>
+              <span>Santiago, Chile</span>
             </div>
             <div className="flex items-center space-x-2">
               <Star className="w-5 h-5 text-primary-300 fill-current" />
