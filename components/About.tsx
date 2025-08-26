@@ -137,7 +137,7 @@ export default function About() {
               >
                 <div className="relative overflow-hidden rounded-2xl shadow-lg">
                   <img
-                    src="https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1081&q=80"
+                    src="https://i.pinimg.com/originals/bc/94/25/bc942528cb9c7d0532058852d531d5ce.jpg"
                     alt="Plato gourmet"
                     className="w-full h-48 object-cover transform hover:scale-110 transition-transform duration-700"
                   />
